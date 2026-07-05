@@ -7,7 +7,7 @@
 # ======================================================================
 
 # --- CONFIGURATION ---
-REMOTE_HOST="213.191.220.118"
+REMOTE_HOST="45.13.239.213"
 REMOTE_USER="tunnel1"
 REMOTE_PASS="naksh"
 SSH_PORT="22"
